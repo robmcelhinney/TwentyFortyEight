@@ -24,4 +24,4 @@ java com.twentyfortyeight.TwentyFortyEight
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Screenshot
-![ScreenShot](https://raw.github.com/robmcelhinney/TwentyFortyEight/2048Screenshot.png)
+![ScreenShot](2048Screenshot.png)
