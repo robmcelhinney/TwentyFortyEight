@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8eec093-bce9-46e7-b3de-167c396bd07e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/TwentyFortyEight/com/twentyfortyeight/Board.class" afterPath="$PROJECT_DIR$/out/production/TwentyFortyEight/com/twentyfortyeight/Board.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/TwentyFortyEight/com/twentyfortyeight/Tile.class" afterPath="$PROJECT_DIR$/out/production/TwentyFortyEight/com/twentyfortyeight/Tile.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/TwentyFortyEight/com/twentyfortyeight/TwentyFortyEight.class" afterPath="$PROJECT_DIR$/out/production/TwentyFortyEight/com/twentyfortyeight/TwentyFortyEight.class" />
-      <change beforePath="$PROJECT_DIR$/out/test/TwentyFortyEight/com/twentyfortyeight/BoardTest.class" afterPath="$PROJECT_DIR$/out/test/TwentyFortyEight/com/twentyfortyeight/BoardTest.class" />
-      <change beforePath="$PROJECT_DIR$/src/com/twentyfortyeight/com/twentyfortyeight/Board$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/twentyfortyeight/com/twentyfortyeight/Board$Direction.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/twentyfortyeight/com/twentyfortyeight/Board.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/twentyfortyeight/com/twentyfortyeight/Tile.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/twentyfortyeight/com/twentyfortyeight/TwentyFortyEight.class" afterPath="" />
-    </list>
+    <list default="true" id="a8eec093-bce9-46e7-b3de-167c396bd07e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +15,8 @@
       <file leaf-file-name="TwentyFortyEight.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/twentyfortyeight/TwentyFortyEight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="0">
+              <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -178,7 +166,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="208" />
     <option name="y" value="-33" />
     <option name="width" value="1942" />
@@ -438,7 +426,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535311200272</updated>
-      <workItem from="1535311202062" duration="37103000" />
+      <workItem from="1535311202062" duration="37509000" />
     </task>
     <servers />
   </component>
@@ -475,10 +463,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37103000" />
+    <option name="totallyTimeSpent" value="37509000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -488,7 +477,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2765237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2765237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -623,8 +612,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twentyfortyeight/TwentyFortyEight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
