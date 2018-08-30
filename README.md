@@ -1,8 +1,4 @@
 # TwentyFortyEight
-Console version of 2048 game created in Java
-
-
-# Project Title
 A simple console version of 2048. It does not record the score (may add this in later) and does not stop when reaching 2048 as it should be possible to go further.
 
 
